@@ -54,15 +54,6 @@ Projects coming soon — actively working on:
 - CCNA (In Progress)  
 
 ---
-
-## Learning & Labs
-- Actively practicing on platforms like:
-  - TryHackMe  
-  - Hack The Box  
-  - PortSwigger Web Security Academy  
-
----
-
 ## Career Goal
 To build a career in cybersecurity, focusing on penetration testing, vulnerability assessment, and network security in a global and remote environment.
 
