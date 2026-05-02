@@ -59,7 +59,7 @@ To build a career in cybersecurity, focusing on penetration testing, vulnerabili
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 - Email: usamarasheed0317@gmail.com 
 - LinkedIn:www.linkedin.com/in/chusama317
 
